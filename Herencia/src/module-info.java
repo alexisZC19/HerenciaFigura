@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author america
+ *
+ */
+module Herencia {
+}
